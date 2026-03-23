@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Prompt", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  font-family: "Prompt", sans-serif;
+  background-color: #f8f9fa;
+}
